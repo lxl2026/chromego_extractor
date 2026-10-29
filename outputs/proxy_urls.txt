@@ -1,0 +1,17 @@
+hysteria://2001:bc8:32d7:17b::2:11000/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇫🇷 FR-hysteria | 0-1
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::17:20088/?sni=apple.com&insecure=1#🇫🇷 FR-hysteria2 | 1-1
+hysteria://5.83.129.143:26691/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇩🇪 DE-hysteria | 3-1
+hysteria://2a14:7584:d099::a:26691/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🏳 Unknown-hysteria | 4-1
+hysteria://62.210.70.191:24667/?protocol=udp&insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇫🇷 FR-hysteria | 5-1
+hysteria://163.172.117.163:36699/?protocol=udp&insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇫🇷 FR-hysteria | 6-1
+hysteria://62.210.70.191:23556/?protocol=udp&insecure=1&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇫🇷 FR-hysteria | 7-1
+hysteria://2a14:7584:d097::a:54177/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🏳 Unknown-hysteria | 9-1
+hysteria://tw-25.497489.xyz:10099/?protocol=udp&insecure=0&peer=tw-25.497489.xyz&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=20 Mbps&downmbps=20 Mbps&alpn=h3&obfs=#🇨🇳 TW-hysteria | 11-1
+hysteria://198.200.57.142:22335/?protocol=udp&insecure=1&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇺🇸 US-hysteria | 12-1
+hysteria://137.175.82.44:443/?protocol=udp&insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#🇺🇸 US-Hysteria | 2-0
+hysteria://5.83.129.90:54177/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#🇩🇪 DE-Hysteria | 4-0
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::8:22000/?sni=apple.com&insecure=1#🇫🇷 FR-Hysteria2 | 0-0
+hysteria2://dongtaiwang.com@2001:bc8:32d7:302::11:20088/?sni=apple.com&insecure=1#🇫🇷 FR-Hysteria2 | 1-0
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::3:22000/?sni=www.microsoft.com&insecure=1#🇫🇷 FR-Hysteria2 | 2-0
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZmYzIFVua25vd24tdm1lc3MgfCAwLTAiLCAiYWRkIjogIjEwNC4yMS4yMzguMzUiLCAicG9ydCI6IDIwODYsICJpZCI6ICJlZTQyMGZkYS1lZmI3LTQ4YTgtOTI0OS04OTg3ZTM2ZWJkOWUiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+vless://a289c660-1b12-432b-a06c-c2ae469272b0@2001:bc8:32d7:302::14:37783?encryption=none&flow=&security=reality&sni=www.yahoo.com&fp=chrome&pbk=tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg&sid=21569dd6&type=xhttp&serviceName=&host=&path=#🇫🇷 FR-vless | 2-0

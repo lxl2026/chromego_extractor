@@ -1,0 +1,10 @@
+https://gitlab.com/free9999/ipupdate/-/raw/master/xray/config.json
+https://gitlab.com/free9999/ipupdate/-/raw/master/xray/2/config.json
+https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/xray/1/config.json
+https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/xray/2/config.json
+https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/xray/3/config.json
+https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ip/xray/4/config.json
+https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/xray/1/config.json
+https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/xray/2/config.json
+https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/xray/3/config.json
+https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/xray/4/config.json
