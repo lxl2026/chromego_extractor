@@ -2,7 +2,7 @@ hysteria://2001:bc8:32d7:17b::2:11000/?protocol=udp&insecure=1&peer=apple.com&au
 hysteria2://dongtaiwang.com@2001:bc8:32d7:302::17:20088/?sni=apple.com&insecure=1#🇫🇷 FR-hysteria2 | 1-1
 hysteria://5.83.129.143:26691/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇩🇪 DE-hysteria | 3-1
 hysteria://2a14:7584:d099::a:26691/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🏳 Unknown-hysteria | 4-1
-hysteria://62.210.70.191:24667/?protocol=udp&insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇫🇷 FR-hysteria | 5-1
+hysteria://62.210.28.175:24667/?protocol=udp&insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇫🇷 FR-hysteria | 5-1
 hysteria://163.172.117.163:36699/?protocol=udp&insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇫🇷 FR-hysteria | 6-1
 hysteria://62.210.70.191:23556/?protocol=udp&insecure=1&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇫🇷 FR-hysteria | 7-1
 hysteria://2a14:7584:d097::a:54177/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🏳 Unknown-hysteria | 9-1
