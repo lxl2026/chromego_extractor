@@ -142,6 +142,19 @@ proxies:
 - name: 🇺🇸 US-Hysteria | 2-0
   type: hysteria
   server: 137.175.82.44
+  port: 20022
+  auth-str: dongtaiwang.com
+  up: 80
+  down: 100
+  fast-open: true
+  protocol: udp
+  sni: bing.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+- name: 🇺🇸 US-Hysteria | 3-0
+  type: hysteria
+  server: 137.175.82.44
   port: 443
   auth-str: dongtaiwang.com
   up: 80
@@ -233,6 +246,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -257,6 +271,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -280,6 +295,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -303,6 +319,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -326,6 +343,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -349,6 +367,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -372,6 +391,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -395,6 +415,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -418,6 +439,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -441,6 +463,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -464,6 +487,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -487,6 +511,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
@@ -519,6 +544,7 @@ proxy-groups:
   - 🇺🇸 US-mieru | 13-1
   - 🇨🇳 TW-hysteria | 14-1
   - 🇺🇸 US-Hysteria | 2-0
+  - 🇺🇸 US-Hysteria | 3-0
   - 🇩🇪 DE-Hysteria | 4-0
   - 🇫🇷 FR-Hysteria2 | 0-0
   - 🇫🇷 FR-Hysteria2 | 1-0
