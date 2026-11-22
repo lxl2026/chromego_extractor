@@ -3,11 +3,16 @@ hysteria2://dongtaiwang.com@2001:bc8:32d7:302::17:20088/?sni=apple.com&insecure=
 hysteria://5.83.129.143:26691/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇩🇪 DE-hysteria | 3-1
 hysteria://2a14:7584:d099::a:26691/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🏳 Unknown-hysteria | 4-1
 hysteria://62.210.124.132:24667/?protocol=udp&insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇫🇷 FR-hysteria | 5-1
-hysteria://62.210.70.191:23556/?protocol=udp&insecure=1&peer=bing.com&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇫🇷 FR-hysteria | 7-1
-hysteria://2a14:7584:d097::a:54177/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🏳 Unknown-hysteria | 9-1
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::10:22000/?sni=www.microsoft.com&insecure=1#🇫🇷 FR-hysteria2 | 6-1
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::11:22000/?sni=www.microsoft.com&insecure=1#🇫🇷 FR-hysteria2 | 7-1
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::12:22000/?sni=www.microsoft.com&insecure=1#🇫🇷 FR-hysteria2 | 8-1
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::13:22000/?sni=www.microsoft.com&insecure=1#🇫🇷 FR-hysteria2 | 9-1
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::14:22000/?sni=www.microsoft.com&insecure=1#🇫🇷 FR-hysteria2 | 10-1
 hysteria://38.6.222.131:11008/?protocol=udp&insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇺🇸 US-hysteria | 11-1
 hysteria://38.6.222.132:11008/?protocol=udp&insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇺🇸 US-hysteria | 12-1
-hysteria://tw-25.497489.xyz:10099/?protocol=udp&insecure=0&peer=tw-25.497489.xyz&auth=github.com/Alvin9999-newpac/fanqiang&upmbps=20 Mbps&downmbps=20 Mbps&alpn=h3&obfs=#🇨🇳 TW-hysteria | 14-1
+hysteria2://dongtaiwang.com@198.247.124.187:23456/?sni=www.bing.com&insecure=1#🇺🇸 US-hysteria2 | 13-1
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::15:22000/?sni=www.microsoft.com&insecure=1#🇫🇷 FR-hysteria2 | 19-1
+hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::16:22000/?sni=www.microsoft.com&insecure=1#🇫🇷 FR-hysteria2 | 20-1
 hysteria://137.175.82.41:20022/?protocol=udp&insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#🇺🇸 US-Hysteria | 2-0
 hysteria://137.175.82.42:443/?protocol=udp&insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#🇺🇸 US-Hysteria | 3-0
 hysteria://5.83.129.90:54177/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=80&downmbps=100&alpn=h3&obfs=#🇩🇪 DE-Hysteria | 4-0
