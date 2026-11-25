@@ -168,6 +168,8 @@ proxies:
   server: 198.247.124.187
   port: 23456
   password: dongtaiwang.com
+  up: 10
+  down: 10
   sni: www.bing.com
   skip-cert-verify: true
   alpn:
